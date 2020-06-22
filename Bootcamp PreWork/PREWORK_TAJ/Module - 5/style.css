@@ -1,0 +1,49 @@
+
+
+h1 {
+    text-align: center;
+  }
+  #second{
+    color: red;
+  }
+  
+  #third{
+    color: blue;
+  }
+  
+  #fourth{
+    color: green;
+  }
+  
+  #fifth{
+    font-size: 40px;
+  }
+  #sixth{
+    font-size: 8px;
+  }
+  #center{
+    text-align: center;
+  }
+  
+  #bold{
+    font-weight: bold
+  }
+  #font{
+    font-family: cursive;
+  }
+  #seventh{
+    color: orange;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .green{
+    color:green;
+    
+  }
+  #styledImage{
+    border-color: gold;
+    border-width: thick;
+    border-style: solid;
+  }
+    
